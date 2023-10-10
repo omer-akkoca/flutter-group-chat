@@ -16,8 +16,8 @@ class Login extends StatefulWidget {
 class _LoginState extends State<Login> {
   final _auth = FirebaseAuth.instance;
 
-  String email = "omer@mail.com";
-  String password = "1234*qwer";
+  String email = "";
+  String password = "";
   bool loading = false;
 
   void handleLogin() async {
