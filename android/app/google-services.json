@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "393065102946",
+    "project_id": "flutter-quick-messenger",
+    "storage_bucket": "flutter-quick-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393065102946:android:94c3bc61c5d258eb759b3b",
+        "android_client_info": {
+          "package_name": "com.example.quick_messenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFBx9KsqQya3HcnDq4DJDitASatlYcY50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
